@@ -1,4 +1,4 @@
-# EUI-LLM KARS: Knowledge-Aware Recommender System
+# EUI-LLM KARS : Enhancing User and Item embeddings using LLMs - Knowledge-Aware Recommender System
 
 ## 🎯 Overview
 
