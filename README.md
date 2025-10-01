@@ -13,18 +13,8 @@ pip install -r requirements.txt
 
 ### Data Setup
 
-The system expects MovieLens-1M data in the following structure:
-```
-data/
-├── ml1m_gal/
-│   └── _raw/
-│       ├── ml1m.inter
-│       ├── ml1m.kg
-│       ├── ml1m.item
-│       ├── LLM_user_triples.tsv
-│       ├── LLM_item_triples.tsv
-│       └── mapping_items.tsv
-```
+The system expects MovieLens-1M data, but its an extension of the LLM enhanced KG from my previous repo @LLM-KG-Extraction.
+
 
 **Note**: The LLM triples and mapping files are generated from the original ML1M dataset using the provided data processing scripts.
 
