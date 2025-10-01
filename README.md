@@ -189,23 +189,4 @@ Github/
 - **DistMult**: Excellent for item attribute modeling
 - **Hybrid**: Best overall performance combining both approaches
 
-## 📚 Citation
 
-If you use this code in your research, please cite:
-
-```bibtex
-@article{eui_llm_kars_2024,
-  title={EUI-LLM KARS: Knowledge-Aware Recommender System with Large Language Models},
-  author={[Your Name]},
-  journal={[Journal/Conference]},
-  year={2024}
-}
-```
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
-**Note**: This repository provides a comprehensive framework for training Knowledge Graph-enhanced recommendation models with multiple embedding approaches and evaluation metrics.
